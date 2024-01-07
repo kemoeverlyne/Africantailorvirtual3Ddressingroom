@@ -25,7 +25,7 @@ charset-normalizer==2.1.1
 cleo==2.1.0
 click==8.1.7
 colorama==0.4.6
-composer==0.17.2
+composer
 contourpy==1.1.1
 coolname==2.2.0
 crashtest==0.4.1
@@ -96,7 +96,7 @@ numpy==1.24.3
 oauthlib==3.2.2
 odict==1.9.0
 omegaconf==2.3.0
-open-clip-torch==2.19.0
+open-clip-torch
 opencv-python==4.9.0.80
 opt-einsum==3.3.0
 optional-django
@@ -137,7 +137,7 @@ pyre-extensions==0.0.29
 pyresparser==1.0.6
 pyrsistent==0.20.0
 python-dateutil==2.8.2
-pytorch-ranger==0.1.1
+pytorch-ranger
 pytz==2023.3.post1
 pywin32-ctypes==0.2.2
 PyYAML==6.0.1
@@ -177,16 +177,16 @@ tensorflow-intel
 tensorflow-io-gcs-filesystem==0.31.0
 termcolor==2.4.0
 thinc==7.4.6
-timm==0.9.12
+timm
 tokenizers==0.13.3
 toml==0.10.2
 tomli==2.0.1
 tomlkit==0.12.3
 toolz==0.12.0
-torch==2.1.1
-torch-optimizer==0.3.0
-torchmetrics==1.0.3
-torchvision==0.16.1
+torch
+torch-optimizer
+torchmetrics
+torchvision
 tornado==6.4
 tqdm==4.66.1
 transformers==4.33.2
@@ -207,7 +207,7 @@ wcwidth==0.2.12
 websockets==10.4
 Werkzeug==3.0.1
 wrapt==1.16.0
-xformers==0.0.19
+xformers
 yarl==1.9.4
 youtube-dl==2021.12.17
 zipp==3.17.0
