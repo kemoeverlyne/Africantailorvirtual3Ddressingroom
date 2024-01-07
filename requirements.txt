@@ -99,7 +99,7 @@ omegaconf==2.3.0
 open-clip-torch==2.19.0
 opencv-python==4.9.0.80
 opt-einsum==3.3.0
-optional-django==0.3.0
+optional-django
 packaging==22.0
 pafy==0.5.5
 pandas==2.0.3
