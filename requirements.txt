@@ -202,6 +202,8 @@ typing_extensions
 tzdata
 tzlocal
 urllib3
+gunicorn==20.1.0
+
 validators
 virtualenv
 wasabi
