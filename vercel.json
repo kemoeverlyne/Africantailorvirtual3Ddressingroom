@@ -3,7 +3,7 @@
   "builds": [
     {
       "src": "MainCam.py",
-      "use": "@stlite/desktop"
+      "use": "@stlite/desktop",
     }
   ]
 }
