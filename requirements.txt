@@ -5,6 +5,7 @@ altair
 antlr4-python3-runtime
 argcomplete
 arrow
+libgl1-mesa-glx
 astunparse
 async-timeout
 attrs
