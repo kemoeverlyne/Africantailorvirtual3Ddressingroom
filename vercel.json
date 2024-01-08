@@ -1,9 +1,1 @@
-{
-  "version": 2,
-  "builds": [
-    {
-      "src": "MainCam.py",
-      "use": "@stlite/desktop",
-    }
-  ]
-}
+
